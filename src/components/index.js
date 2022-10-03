@@ -1,0 +1,11 @@
+export { default as Navbar } from './Navbar.svelte';
+export { default as Hero } from './Hero.svelte';
+export { default as Stats } from './Stats.svelte';
+export { default as Business } from './Business.svelte';
+export { default as Billing } from './Billing.svelte';
+export { default as CardDeal } from './CardDeal.svelte';
+export { default as Testimonials } from './Testimonials.svelte';
+export { default as Clients } from './Clients.svelte';
+export { default as CTA } from './CTA.svelte';
+export { default as Footer } from './Footer.svelte';
+export { default as GetStarted } from './GetStarted.svelte';
